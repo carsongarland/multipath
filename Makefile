@@ -18,7 +18,6 @@ TARGET=$(NAME).pdf
 # The author should add the accounts of everyone else to the project
 # ** I THINK ** everyone can use the same drive_api_key.json file (in git), but this may not be true
 # ***** THE ACCOUNT YOU ADD SHOULD ONLY HAVE VIEW PERMISSIONS OF THE FILE *******
-DOC_ID=1VWcS26FoXVeMZ1B66evPaFLhm33qDnUT_6eLVYcE1Ao
 DOCS_LINK=https://docs.google.com/document/d/1VWcS26FoXVeMZ1B66evPaFLhm33qDnUT_6eLVYcE1Ao/export?format=txt
 
 # This line should not change; however, you can customize the template.tex for the conference
